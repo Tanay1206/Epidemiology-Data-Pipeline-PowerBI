@@ -3,6 +3,3 @@ raw_covid_data.csv
 epidemiology_tracker.db
 Dim_Location.csv
 Fact_Outbreak.csv
-
-# Ignore Power BI temporary files (if any exist in this folder)
-*.pbix
