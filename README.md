@@ -1,5 +1,7 @@
 Epidemiological COVID-19 Surveillance Pipeline 🦠📊
 
+![Epidemiology Dashboard](dashboard_preview.png)
+
 An end-to-end data engineering and analytics pipeline built to extract, process, and visualize historical epidemiological data. This project demonstrates the integration of Python-based data extraction, relational database architecture (SQL), and advanced business intelligence dashboarding (Power BI) to derive actionable healthcare insights.
 
 🛠️ Tech Stack & Architecture
